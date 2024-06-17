@@ -1,4 +1,4 @@
-package baneks;
+package banex;
 
 import java.net.*;
 import java.io.*;

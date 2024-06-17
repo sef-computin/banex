@@ -1,4 +1,4 @@
-package baneks;
+package banex;
 
 public class Anex{
 
